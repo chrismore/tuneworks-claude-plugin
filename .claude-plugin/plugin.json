@@ -2,7 +2,7 @@
   "name": "tuneworks",
   "displayName": "TuneWorks",
   "version": "1.1.0",
-  "description": "Performance car data and tools for vehicles, modifications, setup revisions, driving sessions, maintenance, event preparation, and data logs.",
+  "description": "Performance car data & tools: Track every build change, setup, session, maintenance item, and data log—then turn your connected garage history into better decisions at the next event.",
   "author": {
     "name": "TuneWorks",
     "url": "https://tuneworks.ai"
