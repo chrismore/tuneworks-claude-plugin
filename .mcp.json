@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "TuneWorks": {
+      "type": "http",
+      "url": "https://tuneworks.ai/mcp"
+    }
+  }
+}
