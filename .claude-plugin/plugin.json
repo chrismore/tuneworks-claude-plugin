@@ -9,6 +9,7 @@
   },
   "homepage": "https://tuneworks.ai",
   "repository": "https://github.com/chrismore/tuneworks-claude-plugin",
+  "privacyPolicyUrl": "https://tuneworks.ai/privacy",
   "license": "MIT",
   "keywords": [
     "motorsports",
